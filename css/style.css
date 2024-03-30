@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text h1{
+    text-align: center;
+    background-image: url("../img/fire.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    font-size: 55px;
+    text-transform: uppercase;
+
+}
